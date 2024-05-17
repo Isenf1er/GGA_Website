@@ -1,0 +1,15 @@
+  .device-charts {
+    margin-top: 20px;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+/* Ensure the parent div of the chart has a defined width and height */
+.graph-container {
+    width: 100%; /* or any specific width */
+    height: 400px; /* Adjust based on your preference */
+}
